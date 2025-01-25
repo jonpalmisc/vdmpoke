@@ -4,7 +4,8 @@ A small tool for sending USB-C VDMs from Apple devices.
 
 ## Building
 
-Build as you would any other CMake project.
+Build as you would any other CMake project. The `install` target can install
+the tool (and optionally, the supporting library) globally for you.
 
 ## Usage
 
